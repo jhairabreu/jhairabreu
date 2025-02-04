@@ -14,4 +14,4 @@ Software Engineer focused on bringing mockups to life ✨💻🎨🚀
 
 ## Useful links:
 <!--[![Static Badge](https://img.shields.io/badge/about-282C34?style=for-the-badge&logo=about&labelColor=282C34&link=https://www.linkedin.com/in/jhair-abreu-b0944b156/)](https://www.linkedin.com/in/jhair-abreu-b0944b156/)  -->
-[![Static Badge](https://img.shields.io/badge/linkedin-282C34?style=for-the-badge&logo=linkedin&logoColor=%0077b5&link=https://www.linkedin.com/in/jhair-abreu-b0944b156/)](https://www.linkedin.com/in/jhair-abreu-b0944b156/)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-282C34?style=for-the-badge&logo=Linkedin&logoColor=0077b5&link=https://www.linkedin.com/in/jhair-abreu-b0944b156/)](https://www.linkedin.com/in/jhair-abreu-b0944b156/)
